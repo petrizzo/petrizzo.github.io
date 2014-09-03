@@ -100,7 +100,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "reveal"
+THEME = "zen"
 
 # Below this point, everything is optional
 
